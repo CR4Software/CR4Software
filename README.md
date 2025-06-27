@@ -4,11 +4,6 @@ Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver
       <a href="[https://www.youtube.com/c/fknight?sub_confirmation=1](https://www.linkedin.com/in/cameron-rogers-8463b620a/)">
 
 
-
-
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 IT Graduate | Middle Georgia State University (Spring 2025)  
@@ -17,7 +12,6 @@ Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver
 - 💡 Curious about opportunities in **software engineering, robotics, and AI**  
 - 🧠 Favorite tools: Java, Python, React, SQL, Raspberry Pi, Git  
 
----
 
 ## 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
