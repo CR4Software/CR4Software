@@ -1,9 +1,7 @@
 # Hi, I'm Cameron Rogers 👋  
 Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver  
 
-<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN)< /br>  
-<br>[![Portfolio](https://img.shields.io/badge/Portfolio-website-informational?style=for-the-badge)](https://yourwebsite.com)< /br>  
-<br>[![Email](https://img.shields.io/badge/Email-cameron.rogers@email.com-red?style=for-the-badge)](mailto:cameron.rogers@email.com)< /br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN) [![Portfolio](https://img.shields.io/badge/Portfolio-website-informational?style=for-the-badge)](https://yourwebsite.com)[Email(https://img.shields.io/badge/Email-cameron.rogers@email.com-red?style=for-the-badge)](mailto:cameron.rogers@email.com)
 
 ---
 
