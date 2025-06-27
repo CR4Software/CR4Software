@@ -23,8 +23,6 @@ Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for stopping by! Feel free to connect 🚀
