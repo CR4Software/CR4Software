@@ -1,9 +1,10 @@
 # Hi, I'm Cameron Rogers 👋  
 Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver  
   <!-- ✅ LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/cameron-rogers-8463b620a/">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/cameron-rogers-8463b620a/">
+  <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+
   <!-- ✅ Email Badge -->
   <a href="mailto:cameronrogers0209@gmail.com">
     <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
