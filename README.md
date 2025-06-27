@@ -1,13 +1,15 @@
 # Hi, I'm Cameron Rogers 👋  
 Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver  
-<p align="center">
+<p align="left">
   <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/cameron-rogers-8463b620a/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
+<p align="left">
   <a href="mailto:cameronrogers0209@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cameronrogers0209@gmail.com-red?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 
 ---
