@@ -15,14 +15,12 @@ Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver
 ## 👨‍💻 About Me
 
 - 🎓 IT Graduate | Middle Georgia State University (Spring 2025)  
-- 🚀 Currently building: a wheeled rover robot using Python & Raspberry Pi  
+- 🚀 Currently building: a github Portfilo and advancing my skills in full-stack development 
 - 🌱 Learning: Full-stack web dev, embedded systems, drone programming  
 - 💡 Curious about opportunities in **software engineering, robotics, and AI**  
 - 🧠 Favorite tools: Java, Python, React, SQL, Raspberry Pi, Git  
 
 ---
-
-## 🧰 Tech Stack
 
 ## 🧰 Languages and Tools
 
@@ -56,14 +54,6 @@ Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver
   </a>
 </p>
 
-
----
-
-## 🧪 Recent Projects
-
-- 🤖 **RoverBot** – A Python-powered autonomous rover w/ obstacle avoidance [[GitHub Repo]](https://github.com/YourUsername/RoverBot)  
-- 🌐 **Portfolio Website** – My personal web dev portfolio built with HTML/CSS/JS [[GitHub Repo]](https://github.com/YourUsername/Portfolio)  
-- 🧾 **TaskManagerApp** – Full-stack Java & SQL CRUD task app [[GitHub Repo]](https://github.com/YourUsername/TaskManagerApp)
 
 ---
 
