@@ -1,6 +1,6 @@
 # Hi, I'm Cameron Rogers 👋  
 Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/cameron-rogers-8463b620a/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
