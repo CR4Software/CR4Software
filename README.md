@@ -1,13 +1,11 @@
 # Hi, I'm Cameron Rogers 👋  
 **Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver**
 
-<!-- ✅ LinkedIn Badge -->
 <p>
   <a href="https://www.linkedin.com/in/cameron-rogers-8463b620a/" target="_blank">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
 
-  <!-- ✅ Email Badge -->
   <a href="mailto:cameronrogers0209@gmail.com">
     <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -18,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 IT Graduate | Middle Georgia State University (Spring 2025)  
-- 🚀 Currently building: a GitHub portfolio and sharpening my full-stack development skills  
+- 🚀 Currently building: a GitHub portfolio and advancing my skills in full-stack development  
 - 🌱 Learning: Full-stack web dev, embedded systems, and drone programming  
 - 💡 Curious about opportunities in **software engineering, robotics, and AI**  
 - 🧠 Favorite tools: Java, Python, React, SQL, Raspberry Pi, Git  
