@@ -1,69 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cameron Rogers | Full-Stack Dev</title>
-  <style>
-    .wave {
-      animation-name: wave-animation;
-      animation-duration: 2.5s;
-      animation-iteration-count: infinite;
-      transform-origin: 70% 70%;
-      display: inline-block;
-    }
+# Hi, I'm Cameron Rogers 
+<img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="24" height="24" style="vertical-align:middle;" />
 
-    @keyframes wave-animation {
-      0% { transform: rotate(0deg); }
-     10% { transform: rotate(14deg); }
-     20% { transform: rotate(-8deg); }
-     30% { transform: rotate(14deg); }
-     40% { transform: rotate(-4deg); }
-     50% { transform: rotate(10deg); }
-     60% { transform: rotate(0deg); }
-    100% { transform: rotate(0deg); }
-    }
-  </style>
-</head>
-<body>
-  <h1>Hi, I'm Cameron Rogers <span class="wave">👋</span></h1>
-  <p><strong>Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver</strong></p>
+**Aspiring Full-Stack Software Developer | Tech Explorer | Problem Solver**
 
-  <!-- ✅ LinkedIn Badge -->
-  <p>
-    <a href="https://www.linkedin.com/in/cameron-rogers-8463b620a/" target="_blank">
-      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-    </a>
+<p>
+  <a href="https://www.linkedin.com/in/cameron-rogers-8463b620a/" target="_blank">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
 
-    <!-- ✅ Email Badge -->
-    <a href="mailto:cameronrogers0209@gmail.com">
-      <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
+  <a href="mailto:cameronrogers0209@gmail.com">
+    <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-  <h2>👨‍💻 About Me</h2>
-  <ul>
-    <li>🎓 IT Graduate | Middle Georgia State University (Spring 2025)</li>
-    <li>🚀 Currently building: a GitHub portfolio and advancing my skills in full-stack development</li>
-    <li>🌱 Learning: Full-stack web dev, embedded systems, and drone programming</li>
-    <li>💡 Curious about opportunities in <strong>software engineering, robotics, and AI</strong></li>
-    <li>🧠 Favorite tools: Java, Python, React, SQL, Raspberry Pi, Git</li>
-  </ul>
+## 👨‍💻 About Me
 
-  <h2>🧰 Languages and Tools</h2>
-  <p>
-    <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-    <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-    <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-    <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </p>
+- 🎓 IT Graduate | Middle Georgia State University (Spring 2025)  
+- 🚀 Currently building: a GitHub portfolio and advancing my skills in full-stack development  
+- 🌱 Learning: Full-stack web dev, embedded systems, drone programming  
+- 💡 Curious about opportunities in **software engineering, robotics, and AI**  
+- 🧠 Favorite tools: Java, Python, React, SQL, Raspberry Pi, Git  
 
-  <blockquote>
-    “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-  </blockquote>
+## 🧰 Languages and Tools
 
-  <p>Thanks for stopping by! Feel free to connect 🚀</p>
-</body>
-</html>
+<p align="left">
+  <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+  <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+  <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! Feel free to connect 🚀
