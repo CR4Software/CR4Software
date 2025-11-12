@@ -27,16 +27,7 @@ I’m currently looking to **kickstart my career in technology** and contribute 
 
 ---
 
-## 🚀 Projects
 
-### 🔹 [Raspberry Pi LED Controller](#)
-Python-based GPIO project that uses LED lighting patterns to visualize sensor data through a web interface.
-
-### 🔹 [IT Support Ticket Analyzer](#)
-Automation script that processes and summarizes CSV support tickets using Python and pandas.
-
-### 🔹 [Personal Portfolio Website](#)
-Responsive portfolio design built with HTML/CSS showcasing my academic background and projects.
 
 ---
 
@@ -50,14 +41,14 @@ Responsive portfolio design built with HTML/CSS showcasing my academic backgroun
 
 ## 📫 Contact
 
-📧 **Email:** cameron.rogers@example.com  
+📧 **Email:** [cameronrogers0209@gmail.com](#)
 🔗 **LinkedIn:** [linkedin.com/in/cameron-rogers](#)  
 💻 **GitHub:** [github.com/CameronRogers](#)
 
 ---
 
 ### ⚡ Fun Fact
-When I’m not troubleshooting or coding, I enjoy working with drones, experimenting with Raspberry Pi projects, and learning new tech tools.
+When I’m not troubleshooting or coding, I enjoy working with drones, experimenting with Raspberry Pi projects, and learning new tech tools. However, chess and watching anime are great in their own right.
 
 ---
 🧩 *Thanks for visiting my GitHub! Feel free to check out my repositories and connect with me.*
