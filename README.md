@@ -43,7 +43,7 @@ I’m currently looking to **kickstart my career in technology** and contribute 
 
 📧 **Email:** [cameronrogers0209@gmail.com](#)
 🔗 **LinkedIn:** [linkedin.com/in/cameron-rogers](#)  
-💻 **GitHub:** [github.com/CameronRogers](#)
+💻 **GitHub:** [github.com/CR4Software](#)
 
 ---
 
